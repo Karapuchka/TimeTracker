@@ -1,0 +1,14 @@
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\bin\Debug\TimeTracker.exe.config
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\bin\Debug\TimeTracker.exe
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\bin\Debug\TimeTracker.pdb
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csproj.AssemblyReference.cache
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\obj\Debug\TimeTracker.MainForm.resources
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\obj\Debug\TimeTracker.Properties.Resources.resources
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csproj.GenerateResource.cache
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\obj\Debug\TimeTracker.exe
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\obj\Debug\TimeTracker.pdb
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\bin\Debug\TimeTracker.exe.manifest
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\bin\Debug\TimeTracker.application
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\obj\Debug\TimeTracker.exe.manifest
+C:\Users\user\Documents\допки\Студворк\7154223\Готовое\TimeTracker\TimeTracker\obj\Debug\TimeTracker.application
